@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  margin: auto;
+  text-align: center;
+  
+}
+nav {
+  text-align: center;
+  
+  margin: auto;
+}
+figure {
+  align-content: center;
+  text-align: center;
+  font-size: small;
+}
